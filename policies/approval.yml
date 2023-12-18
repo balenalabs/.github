@@ -54,7 +54,7 @@ approval_rules:
       permissions: ["write"]
 
     options:
-      allow_author: true
+      allow_author: false
       allow_contributor: true
       invalidate_on_push: true
       ignore_edited_comments: true
